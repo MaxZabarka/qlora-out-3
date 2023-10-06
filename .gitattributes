@@ -1,0 +1,5 @@
+checkpoint-1370 filter=lfs diff=lfs merge=lfs -text
+checkpoint-2055 filter=lfs diff=lfs merge=lfs -text
+checkpoint-685 filter=lfs diff=lfs merge=lfs -text
+adapter_model.bin filter=lfs diff=lfs merge=lfs -text
+tokenizer.model filter=lfs diff=lfs merge=lfs -text
